@@ -1,0 +1,170 @@
+﻿Town,County,FIPS
+Andover,Tolland,0901301080
+Ansonia,New Haven,0900901220
+Ashford,Windham,0901501430
+Avon,Hartford,0900302060
+Barkhamsted,Litchfield,0900502760
+Beacon Falls,New Haven,0900903250
+Berlin,Hartford,0900304300
+Bethany,New Haven,0900904580
+Bethel,Fairfield,0900104720
+Bethlehem,Litchfield,0900504930
+Bloomfield,Hartford,0900305910
+Bolton,Tolland,0901306260
+Bozrah,New London,0901106820
+Branford,New Haven,0900907310
+Bridgeport,Fairfield,0900108070
+Bridgewater,Litchfield,0900508210
+Bristol,Hartford,0900308490
+Brookfield,Fairfield,0900108980
+Brooklyn,Windham,0901509190
+Burlington,Hartford,0900310100
+Canaan,Litchfield,0900510940
+Canterbury,Windham,0901512130
+Canton,Hartford,0900312270
+Chaplin,Windham,0901513810
+Cheshire,New Haven,0900914160
+Chester,Middlesex,0900714300
+Clinton,Middlesex,0900715350
+Colchester,New London,0901115910
+Colebrook,Litchfield,0900516050
+Columbia,Tolland,0901316400
+Cornwall,Litchfield,0900517240
+Coventry,Tolland,0901317800
+Cromwell,Middlesex,0900718080
+Danbury,Fairfield,0900118500
+Darien,Fairfield,0900118850
+Deep River,Middlesex,0900719130
+Derby,New Haven,0900919550
+Durham,Middlesex,0900720810
+East Granby,Hartford,0900322070
+East Haddam,Middlesex,0900722280
+East Hampton,Middlesex,0900722490
+East Hartford,Hartford,0900322630
+East Haven,New Haven,0900922910
+East Lyme,New London,0901123400
+East Windsor,Hartford,0900324800
+Eastford,Windham,0901521860
+Easton,Fairfield,0900123890
+Ellington,Tolland,0901325360
+Enfield,Hartford,0900325990
+Essex,Middlesex,0900726270
+Fairfield,Fairfield,0900126620
+Farmington,Hartford,0900327600
+Franklin,New London,0901129910
+Glastonbury,Hartford,0900331240
+Goshen,Litchfield,0900532290
+Granby,Hartford,0900332640
+Greenwich,Fairfield,0900133620
+Griswold,New London,0901133900
+Groton,New London,0901134250
+Guilford,New Haven,0900934950
+Haddam,Middlesex,0900735230
+Hamden,New Haven,0900935650
+Hampton,Windham,0901536000
+Hartford,Hartford,0900337070
+Hartland,Hartford,0900337140
+Harwinton,Litchfield,0900537280
+Hebron,Tolland,0901337910
+Kent,Litchfield,0900540290
+Killingly,Windham,0901540500
+Killingworth,Middlesex,0900740710
+Lebanon,New London,0901142390
+Ledyard,New London,0901142600
+Lisbon,New London,0901143230
+Litchfield,Litchfield,0900543370
+Lyme,New London,0901144210
+Madison,New Haven,0900944560
+Manchester,Hartford,0900344700
+Mansfield,Tolland,0901344910
+Marlborough,Hartford,0900345820
+Meriden,New Haven,0900946520
+Middlebury,New Haven,0900946940
+Middlefield,Middlesex,0900747080
+Middletown,Middlesex,0900747360
+Milford,New Haven,0900947535
+Monroe,Fairfield,0900148620
+Montville,New London,0901148900
+Morris,Litchfield,0900549460
+Naugatuck,New Haven,0900949950
+New Britain,Hartford,0900350440
+New Canaan,Fairfield,0900150580
+New Fairfield,Fairfield,0900150860
+New Hartford,Litchfield,0900551350
+New Haven,New Haven,0900952070
+New London,New London,0901152350
+New Milford,Litchfield,0900552630
+Newington,Hartford,0900352140
+Newtown,Fairfield,0900152980
+Norfolk,Litchfield,0900553470
+North Branford,New Haven,0900953890
+North Canaan,Litchfield,0900554030
+North Haven,New Haven,0900954870
+North Stonington,New London,0901155500
+Norwalk,Fairfield,0900156060
+Norwich,New London,0901156270
+Old Lyme,New London,0901157040
+Old Saybrook,Middlesex,0900757320
+Orange,New Haven,0900957600
+Oxford,New Haven,0900958300
+Plainfield,Windham,0901559980
+Plainville,Hartford,0900360120
+Plymouth,Litchfield,0900560750
+Pomfret,Windham,0901561030
+Portland,Middlesex,0900761800
+Preston,New London,0901162150
+Prospect,New Haven,0900962290
+Putnam,Windham,0901562710
+Redding,Fairfield,0900163480
+Ridgefield,Fairfield,0900163970
+Rocky Hill,Hartford,0900365370
+Roxbury,Litchfield,0900565930
+Salem,New London,0901166210
+Salisbury,Litchfield,0900566420
+Scotland,Windham,0901567400
+Seymour,New Haven,0900967610
+Sharon,Litchfield,0900567960
+Shelton,Fairfield,0900168170
+Sherman,Fairfield,0900168310
+Simsbury,Hartford,0900368940
+Somers,Tolland,0901369220
+South Windsor,Hartford,0900371390
+Southbury,New Haven,0900969640
+Southington,Hartford,0900370550
+Sprague,New London,0901171670
+Stafford,Tolland,0901372090
+Stamford,Fairfield,0900173070
+Sterling,Windham,0901573420
+Stonington,New London,0901173770
+Stratford,Fairfield,0900174190
+Suffield,Hartford,0900374540
+Thomaston,Litchfield,0900575730
+Thompson,Windham,0901575870
+Tolland,Tolland,0901376290
+Torrington,Litchfield,0900576570
+Trumbull,Fairfield,0900177200
+Union,Tolland,0901377830
+Vernon,Tolland,0901378250
+Voluntown,New London,0901178600
+Wallingford,New Haven,0900978740
+Warren,Litchfield,0900579510
+Washington,Litchfield,0900579720
+Waterbury,New Haven,0900980070
+Waterford,New London,0901180280
+Watertown,Litchfield,0900580490
+West Hartford,Hartford,0900382590
+West Haven,New Haven,0900982870
+Westbrook,Middlesex,0900781680
+Weston,Fairfield,0900183430
+Westport,Fairfield,0900183500
+Wethersfield,Hartford,0900384900
+Willington,Tolland,0901385950
+Wilton,Fairfield,0900186370
+Winchester,Litchfield,0900586440
+Windham,Windham,0901586790
+Windsor,Hartford,0900387000
+Windsor Locks,Hartford,0900387070
+Wolcott,New Haven,0900987560
+Woodbridge,New Haven,0900987700
+Woodbury,Litchfield,0900587910
+Woodstock,Windham,0901588190
