@@ -27,7 +27,7 @@ The dataset required significant cleaning: filtering to residential properties o
 
 | Step | Detail |
 |------|--------|
-| **Accuracy metric** | `(Assessed Value / 0.7) / Sale Price` — ratio of implied FMV to actual sale price |
+| **Accuracy metric** | `(Assessed Value / 0.7) / Sale Price` - ratio of implied FMV to actual sale price |
 | **Filtering** | Residential only, sale ratios 0.25-2.0, years 2006-2024 (pre-2006 lacks residential type flags) |
 | **Aggregation** | Median accuracy by year, robust to outliers from distressed sales, family transfers |
 | **Geographic** | Town-to-county mapping via CT Data Collaborative FIPS crosswalk, median accuracy by county per year |
@@ -36,6 +36,10 @@ The dataset required significant cleaning: filtering to residential properties o
 | **Regression** | OLS with interaction: `accuracy ~ (year - 2008) * overassessment_indicator` |
 
 > **Why median over mean?** Sale price distributions are heavily right-skewed, and outlier transactions would distort a mean-based metric. Confirmed via skewness check (e1071).
+
+## Poster
+
+This project was completed as a semester-long final project for a graduate Data Visualization course. The final deliverable was a printed poster presented at a poster session open to faculty, students, and employers. The poster was designed in Adobe Illustrator and is available in [`poster/IllustratorPosterRevised.pdf`](poster/IllustratorPosterRevised.pdf).
 
 ## Visualizations
 
