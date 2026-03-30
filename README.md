@@ -75,7 +75,7 @@ This project was completed as a semester-long final project for a graduate Data 
 ## Running Locally
 
 ```bash
-git clone https://github.com/yourusername/ct-assessment-accuracy.git
+git clone https://github.com/dprindfu/ct-assessment-accuracy.git
 cd ct-assessment-accuracy
 ```
 
