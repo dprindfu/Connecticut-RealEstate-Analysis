@@ -19,7 +19,7 @@ The dataset required significant cleaning: filtering to residential properties o
 - **Pre-crash (2006-2008):** Homes were slightly *under*assessed, with the median accuracy ratio sitting around 0.85, meaning assessments lagged behind rapidly appreciating prices.
 - **Post-crash peak (2010-2011):** The ratio spiked to ~1.18, an **18% overassessment**. Home prices dropped but assessed values hadn't caught up, so homeowners were taxed on ghost equity.
 - **Duration:** It took roughly **8 years (2009-2016)** before median assessments returned to accuracy.
-- **Dollar impact:** During the overassessment period, the median Connecticut homeowner overpaid on property taxes annually, with statewide totals reaching into the hundreds of millions per year across 226K+ transactions with mill rate data (84% coverage of the period).
+- **Dollar impact:** During the overassessment period, 65% of properties were overassessed. The median homeowner overpaid **$841/year** in property taxes, with statewide overpayment totaling **$184M** across 227K transactions with mill rate data (84% coverage). Over the full 8-year window, that's roughly **$6,700 per home** at the median.
 - **Geographic variation:** Every county shifted from underassessed to overassessed post-crash. Tolland and Middlesex counties saw the largest swings (~0.45+ change in accuracy ratio between 2007 and 2011); Fairfield and New London the smallest.
 - **Regression:** An OLS interaction model (`accuracy ~ year_centered * overassessment_period`) confirms the structural break. The slope of accuracy over time differs significantly during 2009-2016.
 
