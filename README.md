@@ -16,11 +16,11 @@ Cleaning steps: residential properties only, sales ratios between 0.25 and 2.0 (
 
 ## Key Findings
 
-- **Pre-crash (2006-2008):** homes were *under*assessed, with a median accuracy ratio around 0.85 - assessments lagged behind rising prices.
+- **Pre-crash (2006-2007):** homes were *under*assessed, with a median accuracy ratio around 0.77-0.80 - assessments lagged behind rising prices.
 - **Post-crash peak (2010-2011):** the median ratio reached ~1.18, about **18% overassessment**. Prices fell but assessed values hadn't caught up.
 - **Duration:** the median ratio stayed above 1.0 from 2009 to 2016 before returning to accuracy.
 - **Why the lag:** Connecticut towns revalue every five years and assessments stay fixed in between, so they trail the market by design. A sharp price drop shows up as overassessment until each town's next revaluation.
-- **Geographic variation:** every county moved from underassessed to overassessed after the crash. Tolland and Middlesex had the largest swings (~0.45 change in median ratio between 2007 and 2011); Fairfield and New London the smallest.
+- **Geographic variation:** every county moved from underassessed to overassessed after the crash. Windham had the largest swing (~0.48 change in median ratio between 2007 and 2011), followed by New London and Fairfield; Tolland had the smallest (~0.25).
 - **Tax impact (rough upper bound):** during 2009-2016, 65% of sales with mill rate data (227K sales, 84% coverage) were overassessed. Multiplying the excess assessment by the town mill rate gives a median of $841/year for those sales. See the limitations below before reading this as money overpaid.
 
 ## Limitations
